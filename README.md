@@ -1,2 +1,9 @@
-# python-special-tic-tac-toe
-A very special tic tac toe
+# Python Tic Tac Toe
+
+Run it with `python3 src/`.
+
+## Game Types
+
+- TicTacToe
+- ConnectFour
+- Crazy
